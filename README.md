@@ -1,6 +1,8 @@
 # Felipe Sabbado
 
-Graduado em Engenharia Informática e Jornalismo. Interessado em backend e desenvolvimento em Java e PHP.
+- Graduado em Engenharia Informática e Jornalismo.
+- Possui proeficiência em: Linguagens de Programação (Java, JavaScript e Python); Desenvolvimento Web (HTML, CSS, Nginx, Apache e Docker); REST API (NodeJS e Spring Boot); Programação Orientada a Objetos e Design Patterns; Git e Github; Base de dados relacionais (PostgreSQL).
+- Soft skills desenvolvidas durante o curso de Jornalismo e nos empregos anteriores: excelentes habilidades analíticas, de resolução de problemas, de comunicação e interpessoais; capacidade de trabalhar tanto de forma indepente como parte de uma equipa; alta capacidade de aprendizagem rápida e de desenvolvimento contínuo.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipesabbado&theme=transparent&show_icons=true&card_width=400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=felipesabbado&theme=transparent&hide=scss,blade&layout=compact&card_width=437)
