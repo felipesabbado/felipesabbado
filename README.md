@@ -5,7 +5,7 @@
 - Soft skills desenvolvidas durante o curso de Jornalismo e nos empregos anteriores: excelentes habilidades analíticas, de resolução de problemas, de comunicação e interpessoais; capacidade de trabalhar tanto de forma indepente como parte de uma equipa; alta capacidade de aprendizagem rápida e de desenvolvimento contínuo.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipesabbado&theme=transparent&show_icons=true&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=felipesabbado&theme=transparent&hide=scss,blade&layout=compact&card_width=437)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=felipesabbado&theme=transparent&hide=scss,blade&layout=compact&card_width=400)
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-sabbado/)
